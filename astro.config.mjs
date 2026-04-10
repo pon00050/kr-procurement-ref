@@ -8,10 +8,15 @@ import sidebar from './sidebar.json';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://kr-procurement-ref.vercel.app',
 	integrations: [
 		mermaid(),   // must come before starlight
 		starlight({
 			title: '공공조달 규정 레퍼런스',
+			defaultLocale: 'root',
+			locales: {
+				root: { label: '한국어', lang: 'ko' },
+			},
 			sidebar,
 		}),
 	],
@@ -20,7 +25,7 @@ export default defineConfig({
 			remarkCallouts,
 			[remarkWikiLink, {
 				aliasDivider: '|',
-				pageResolver: name => [name.replace(/\\$/, '')],
+				pageResolver: name => [name.replace(/\\$/, '').toLowerCase()],
 				hrefTemplate: link => `/reference/${link}/`,
 			}],
 		],

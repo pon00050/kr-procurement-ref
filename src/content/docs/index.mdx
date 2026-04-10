@@ -9,10 +9,6 @@ hero:
       link: /reference/
       icon: right-arrow
       variant: primary
-    - text: 실무 워크플로우 플랫폼
-      link: https://kr-public-procurement-demo.up.railway.app
-      icon: external
-      variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
@@ -58,18 +54,5 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 
 - 모든 카드는 `last_verified` 날짜와 근거 조문을 표시합니다.
 - 법령 개정 감지 시 30일 이내 반영합니다 (법제처 API 자동 폴링).
-- 개정 이력은 [변경 로그](/changelog/)에서 확인하세요.
-- 오류나 누락을 발견하셨다면 → [이슈 제보](#) (링크 추가 예정)
+- 오류나 누락을 발견하셨다면 → [이슈 제보](https://github.com/pon00050/kr-procurement-ref/issues)
 
----
-
-## 실무에서 이 레퍼런스를 활용하시나요?
-
-규정을 아는 것과 **클라이언트별로 적용하는 것**은 다릅니다.
-[공공조달관리사 워크플로우 플랫폼](https://kr-public-procurement-demo.up.railway.app)에서는:
-
-- 적격심사 점수 자동 계산 (클라이언트별)
-- 규제 변경 알림 (관련 계약에 영향을 미치는 개정만 필터링)
-- 계약 이행 이력 관리 및 감사 기록
-
-레퍼런스 카드가 "무엇인가"를 알려준다면, 플랫폼은 "어떻게 적용하는가"를 자동화합니다.

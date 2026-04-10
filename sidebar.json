@@ -107,7 +107,7 @@
           },
           {
             "label": "파레토분석 (ABC 분석) — 분류 기준과 C분류 비율",
-            "link": "/reference/파레토분석-ABC분류/"
+            "link": "/reference/파레토분석-abc분류/"
           }
         ]
       },
@@ -120,11 +120,11 @@
           },
           {
             "label": "PQ 2차심사 — 심사분야별 평점 배분 (조달청 기준)",
-            "link": "/reference/PQ-2차심사-심사분야별-평점/"
+            "link": "/reference/pq-2차심사-심사분야별-평점/"
           },
           {
             "label": "정부조달협정(GPA) — 옵셋 금지 원칙",
-            "link": "/reference/WTO-GPA-옵셋금지-원칙/"
+            "link": "/reference/wto-gpa-옵셋금지-원칙/"
           },
           {
             "label": "가격 용어 정의 — 추정가격·기초금액·예정가격·고시금액",
@@ -326,15 +326,15 @@
         "items": [
           {
             "label": "Incoterms 2020 — 9가지 주요 인도조건과 거래 빈도",
-            "link": "/reference/Incoterms-2020-인도조건/"
+            "link": "/reference/incoterms-2020-인도조건/"
           },
           {
             "label": "MAS 최소 계약상대자 수 — 정의상 2인 이상, 계약체결 원칙 3인 이상",
-            "link": "/reference/MAS-최소계약상대자/"
+            "link": "/reference/mas-최소계약상대자/"
           },
           {
             "label": "정부조달협정(GPA) — 옵셋 금지 원칙",
-            "link": "/reference/WTO-GPA-옵셋금지-원칙/"
+            "link": "/reference/wto-gpa-옵셋금지-원칙/"
           },
           {
             "label": "계약보증금 납부면제 — 면제 대상과 법적 성격",
@@ -387,11 +387,11 @@
         "items": [
           {
             "label": "Incoterms 2020 — 9가지 주요 인도조건과 거래 빈도",
-            "link": "/reference/Incoterms-2020-인도조건/"
+            "link": "/reference/incoterms-2020-인도조건/"
           },
           {
             "label": "MAS 2단계경쟁 종합평가방식 — 기본 평가항목 vs 선택 평가항목",
-            "link": "/reference/MAS-2단계경쟁-종합평가방식/"
+            "link": "/reference/mas-2단계경쟁-종합평가방식/"
           },
           {
             "label": "계약의 해제(解除)와 해지(解止)",
@@ -510,7 +510,7 @@
           },
           {
             "label": "Incoterms 2020 — 9가지 주요 인도조건과 거래 빈도",
-            "link": "/reference/Incoterms-2020-인도조건/"
+            "link": "/reference/incoterms-2020-인도조건/"
           },
           {
             "label": "경쟁적 대화에 의한 계약 — 적용 대상 요건",
@@ -740,7 +740,7 @@
         "items": [
           {
             "label": "PQ 2차심사 — 심사분야별 평점 배분 (조달청 기준)",
-            "link": "/reference/PQ-2차심사-심사분야별-평점/"
+            "link": "/reference/pq-2차심사-심사분야별-평점/"
           },
           {
             "label": "건설공사의 범위 — 건설산업기본법상 제외 공종",
@@ -817,11 +817,11 @@
         "items": [
           {
             "label": "MAS 2단계경쟁 종합평가방식 — 기본 평가항목 vs 선택 평가항목",
-            "link": "/reference/MAS-2단계경쟁-종합평가방식/"
+            "link": "/reference/mas-2단계경쟁-종합평가방식/"
           },
           {
             "label": "MAS 최소 계약상대자 수 — 정의상 2인 이상, 계약체결 원칙 3인 이상",
-            "link": "/reference/MAS-최소계약상대자/"
+            "link": "/reference/mas-최소계약상대자/"
           },
           {
             "label": "공공조달 단계별 품질관리 제도 — 계약 단계 해당 제도",
@@ -838,7 +838,7 @@
         "items": [
           {
             "label": "정부조달협정(GPA) — 옵셋 금지 원칙",
-            "link": "/reference/WTO-GPA-옵셋금지-원칙/"
+            "link": "/reference/wto-gpa-옵셋금지-원칙/"
           },
           {
             "label": "가격 용어 정의 — 추정가격·기초금액·예정가격·고시금액",
@@ -974,7 +974,7 @@
           },
           {
             "label": "파레토분석 (ABC 분석) — 분류 기준과 C분류 비율",
-            "link": "/reference/파레토분석-ABC분류/"
+            "link": "/reference/파레토분석-abc분류/"
           },
           {
             "label": "하자보수보증금 납부 비율 — 국가계약법령 기준",
@@ -1209,7 +1209,7 @@
           },
           {
             "label": "파레토분석 (ABC 분석) — 분류 기준과 C분류 비율",
-            "link": "/reference/파레토분석-ABC분류/"
+            "link": "/reference/파레토분석-abc분류/"
           },
           {
             "label": "평가위원 사전접촉 금지 — 감점 5점 규정",
@@ -1242,23 +1242,23 @@
           },
           {
             "label": "Incoterms 2020 — 9가지 주요 인도조건과 거래 빈도",
-            "link": "/reference/Incoterms-2020-인도조건/"
+            "link": "/reference/incoterms-2020-인도조건/"
           },
           {
             "label": "MAS 2단계경쟁 종합평가방식 — 기본 평가항목 vs 선택 평가항목",
-            "link": "/reference/MAS-2단계경쟁-종합평가방식/"
+            "link": "/reference/mas-2단계경쟁-종합평가방식/"
           },
           {
             "label": "MAS 최소 계약상대자 수 — 정의상 2인 이상, 계약체결 원칙 3인 이상",
-            "link": "/reference/MAS-최소계약상대자/"
+            "link": "/reference/mas-최소계약상대자/"
           },
           {
             "label": "PQ 2차심사 — 심사분야별 평점 배분 (조달청 기준)",
-            "link": "/reference/PQ-2차심사-심사분야별-평점/"
+            "link": "/reference/pq-2차심사-심사분야별-평점/"
           },
           {
             "label": "정부조달협정(GPA) — 옵셋 금지 원칙",
-            "link": "/reference/WTO-GPA-옵셋금지-원칙/"
+            "link": "/reference/wto-gpa-옵셋금지-원칙/"
           },
           {
             "label": "건설공사의 범위 — 건설산업기본법상 제외 공종",
