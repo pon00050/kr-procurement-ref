@@ -21,9 +21,6 @@ created: "2026-04-08"
 exam_questions:
   - "모의테스트-1회-과목3 Q19"
 related:
-  - "[[mas-governing-regulation]]"
-  - "[[mas-two-stage-competition]]"
-  - "[[mas-services-mechanics]]"
   - "[[MAS-2단계경쟁-종합평가방식]]"
 ---
 
@@ -115,9 +112,9 @@ flowchart TD
 
 ## 관련 카드
 
-- [[mas-governing-regulation]] — MAS 근거 법령 및 훈령·고시 체계
-- [[mas-two-stage-competition]] — 2단계 경쟁(납품업체 선정) 상세 메커니즘
-- [[mas-services-mechanics]] — 용역 MAS와 물품 MAS의 차이
+- MAS 근거 규정 — MAS 근거 법령 및 훈령·고시 체계
+- MAS 2단계경쟁 메커니즘 — 2단계 경쟁(납품업체 선정) 상세 메커니즘
+- 용역 MAS 메커니즘 — 용역 MAS와 물품 MAS의 차이
 - [[MAS-2단계경쟁-종합평가방식]] — 2단계경쟁 종합평가방식 기본·선택 평가항목 구조
 
 :::tip[실무에서 이 규정 적용하기]
