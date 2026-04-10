@@ -15,7 +15,8 @@ export default defineConfig({
 	markdown: {
 		remarkPlugins: [
 			[remarkWikiLink, {
-				pageResolver: name => [name],
+				aliasDivider: '|',
+				pageResolver: name => [name.replace(/\\$/, '')],
 				hrefTemplate: link => `/reference/${link}/`,
 			}],
 		],

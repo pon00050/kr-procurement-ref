@@ -1,0 +1,39 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+
+<StarlightPage
+  frontmatter={{
+    title: '페이지를 찾을 수 없습니다',
+    description: '요청하신 페이지가 아직 공개되지 않았습니다.',
+  }}
+>
+  <p>
+    찾으시는 규정 카드는 아직 공개되지 않았거나 내부 검토 중입니다.
+    링크가 잘못된 것이 아니라, 해당 콘텐츠가 아직 발행되지 않은 것입니다.
+  </p>
+
+  <h2>다음 방법으로 원하시는 내용을 찾아보세요</h2>
+
+  <ul>
+    <li>
+      <strong>검색</strong> —
+      상단의 검색창(<kbd>Ctrl</kbd>+<kbd>K</kbd>)에서 규정 용어를 직접 검색하세요.
+    </li>
+    <li>
+      <strong>과목별 탐색</strong> —
+      왼쪽 사이드바에서 <strong>시험 과목별</strong> 또는 <strong>워크플로우별</strong>로 탐색하세요.
+    </li>
+    <li>
+      <a href="/">홈으로 돌아가기</a> —
+      시작 페이지에서 레퍼런스 탐색을 다시 시작하세요.
+    </li>
+  </ul>
+
+  <hr />
+
+  <p style="font-size: 0.85em; color: var(--sl-color-gray-4);">
+    오류나 잘못된 링크를 발견하셨다면
+    <a href="https://github.com/pon00050/kr-procurement-ref/issues">이슈로 알려주세요</a>.
+  </p>
+</StarlightPage>
