@@ -11,7 +11,7 @@ exam_subject: 과목3
 exam_chapter: "과목3 4장"
 law_id: "280803"
 governing_articles:
-  - "국가계약법 시행령 제42조 제4항"
+  - "국가계약법 시행령 제13조"
   - "조달청 입찰참가자격사전심사기준"
   - "(회계예규) 입찰참가자격사전심사요령"
 last_verified: "2026-04-08"
