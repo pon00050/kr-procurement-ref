@@ -15,6 +15,7 @@ governing_articles:
   - "국가계약법 제4조"
   - "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정"
 last_verified: "2026-04-08"
+last_reviewed:
 public: true
 created: "2026-04-08"
 exam_questions:

@@ -7,6 +7,7 @@ public: true
 publish_as: index.md
 created: 2026-04-08
 last_verified: 2026-04-08
+last_reviewed:
 ---
 
 # 공공조달 규정 레퍼런스

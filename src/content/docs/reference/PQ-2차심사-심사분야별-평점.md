@@ -15,6 +15,7 @@ governing_articles:
   - "조달청 입찰참가자격사전심사기준"
   - "(회계예규) 입찰참가자격사전심사요령"
 last_verified: "2026-04-08"
+last_reviewed:
 public: true
 created: "2026-04-08"
 exam_questions:
