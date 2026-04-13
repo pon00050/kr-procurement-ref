@@ -16,10 +16,10 @@ secondary_law_ids:
 governing_articles:
   - "조달청 외자구매업무 처리규정"
   - "국가계약법 시행령 제8조 (국제입찰)"
-last_verified: "2026-04-08"
+last_verified: 2026-04-08
 last_reviewed:
 public: true
-created: "2026-04-08"
+created: 2026-04-08
 exam_questions:
   - "모의테스트-1회-과목3 Q8"
 related:

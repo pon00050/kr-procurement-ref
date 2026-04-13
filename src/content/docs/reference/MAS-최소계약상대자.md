@@ -15,10 +15,10 @@ secondary_law_ids:
 governing_articles:
   - "조달사업에 관한 법률 제13조(다수공급자계약)"
   - "물품 다수공급자계약 업무처리규정 (조달청훈령 제2215호)"
-last_verified: "2026-04-08"
+last_verified: 2026-04-08
 last_reviewed:
 public: true
-created: "2026-04-08"
+created: 2026-04-08
 exam_questions:
   - "모의테스트-1회-과목3 Q19"
 related:

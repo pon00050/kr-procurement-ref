@@ -13,10 +13,10 @@ law_id: "2100000187675"
 governing_articles:
   - "물품 다수공급자계약 2단계경쟁 업무처리기준 (조달청고시 제2020-11호)"
   - "용역 다수공급자계약 업무처리규정 (조달청고시 제2024-33호)"
-last_verified: "2026-04-08"
+last_verified: 2026-04-08
 last_reviewed:
 public: true
-created: "2026-04-08"
+created: 2026-04-08
 exam_questions:
   - "모의테스트-1회-과목3 Q22"
 related:
